@@ -1,0 +1,18 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+public class test{
+	public static void main(String[] args) {
+		int []t =new int[5];
+		int ccc;
+		BufferedReader a = new
+				BufferedReader(new InputStreamReader(System.in));
+		
+		String str = a.readLine();
+		int[2] = Integer.parseInt(str);
+		
+		System.out.println(t[0] + "´ú¸Õ¶}ÀYÀÉ" + t[2]);
+		
+	}
+}

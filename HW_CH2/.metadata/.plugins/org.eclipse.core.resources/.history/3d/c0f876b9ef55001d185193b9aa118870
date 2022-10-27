@@ -1,0 +1,10 @@
+
+public class P43 {
+	public static void main(String[] args) {
+		int []money = {222,922,228,22222,9321};
+		for (int i = 0;i<=4;i++) {
+			System.out.println(0x58 +"person " + (i+1) + " have: " + money[i]);
+		}
+		System.out.println("total: " + money.length + " person");
+	}
+}

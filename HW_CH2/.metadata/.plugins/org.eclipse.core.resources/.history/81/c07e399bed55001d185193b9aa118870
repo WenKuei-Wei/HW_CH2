@@ -1,0 +1,15 @@
+public class P40 {
+	public static void main(String[] args) {
+		int[] cat = new cat[3];
+				
+		cat[0] = 1;
+		cat[1] = 11;
+		cat[2] = 111;
+		cat[5] = 111111;
+		
+		
+		System.out.println("array[0]: " + Array.get(a, 0));
+		System.out.println("array[1]: " + Array.get(a, 1));
+		System.out.println("array[2]: " + Array.get(a, 2));
+	}
+}
